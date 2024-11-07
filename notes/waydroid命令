@@ -1,0 +1,2 @@
+#查看cpu架构位数 x86_64
+getprop ro.product.cpu.abi
